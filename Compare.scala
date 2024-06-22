@@ -18,5 +18,15 @@ object Compare {
 
     println("""String Intersection: """ + StringIntersect)
 
+   // APPEND
+
+    val x = new StringBuilder("who")
+
+    val y = x.append(" am i?")
+    val r1 = y.toString
+
+
+    println(r1)
+
   }
 }
