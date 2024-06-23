@@ -24,8 +24,6 @@ object Compare {
 
     val y = x.append(" am i?")
     val r1 = y.toString
-
-
     println(r1)
 
   }
