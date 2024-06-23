@@ -1,3 +1,3 @@
 # Scala 
 
-Go to the master branch to see contents ...
+Clich [here](https://github.com/NicJC/Learn-Scala/blob/master/README.md) to see content.
